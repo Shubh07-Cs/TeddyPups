@@ -61,7 +61,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000).
+Open [https://teddypups-iota.vercel.app/](https://teddypups-iota.vercel.app/).
 
 Some puppy videos may not be included in an existing clone. Download the remaining media once if needed:
 
